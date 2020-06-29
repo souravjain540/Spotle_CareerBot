@@ -1,0 +1,61 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greetings
+- affirm
+- reject
+- feedback
+- exam
+- job_search
+- career_options
+- bye
+entities:
+- name
+- stream
+- subject
+- exam
+- Exam
+- exams
+- exxam
+- skill
+- location
+- skll
+- position
+- positon
+- company
+- skills
+responses:
+  utter_greet:
+  - text: Hey! I am CareerBot by Spotle.ai. How can i help you?
+  utter_affirm:
+  - text: Great, carry on!
+  utter_deny:
+  - text: Sorry ask me another one
+  utter_feedback:
+  - text: Thanks for your valuable feedback !!
+  utter_exam:
+  - text: We recieved your query about EXAM , we will send you details in a minute
+      via e-mail.
+  utter_job:
+  - text: We have send you a list of jobs matching your requirements. Please check
+      you mail.
+  utter_bye:
+  - text: Good Bye , Have a nice day ahead !!
+  utter_career:
+  - text: We are finding best career options for you and will send you in a while
+      on your e-mail address.
+  utter_default:
+  - text: Sorry i cannot help you in this.
+  - text: I am not able to get you sorry.
+  - text: Sorry i am unable to help you.
+actions:
+- utter_greet
+- utter_affirm
+- utter_deny
+- utter_feedback
+- utter_exam
+- utter_job
+- utter_career
+- utter_default
+- utter_bye

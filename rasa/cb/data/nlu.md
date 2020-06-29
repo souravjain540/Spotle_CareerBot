@@ -1,0 +1,1085 @@
+## intent:greetings
+- hey there
+- Hello
+- Hi [Raj](name)
+- how are you
+- hy
+- heya
+- how is you
+- how's u
+- how r u
+- what's up?
+- namaste
+- hola
+- ola
+- hey whats up
+- hey , how are you
+- Greetings!
+- how are you doing?
+- hi, how it is going?
+- how it is going there?
+- how do you do?
+- hi, nice to meet you !
+- Nice to meet you!
+- It is a pleasure to talk to you!
+- Happy to talk with you
+- Nice talking!
+- Good morning
+- Good afternoon
+- Good Noon
+- Good Evening
+- Good Night
+- Morning
+- Afternoon
+- Noon
+- Evening
+- Night
+- Good talking
+- Good to talk to you
+- hey,i want some help.
+- hey there what's up
+- Hey  careerbot
+- it is a good time with you
+- you're amazing
+- you re good
+- gud mrning
+- gud noon
+- good non
+- gud afternoon
+- good afternon
+- hy
+- you are very good
+- nyc talking
+- evrything fine?
+- fine?
+- salaam
+- salam
+- sat shri akal
+- sasriyakal
+- aadad
+- everything ok?
+- Kaise ho
+- GM
+- GA
+- GE
+- kem cho?
+- asalam alekum
+- goood mrning
+- hlo
+- hloo
+- how is everything going?
+- howz u
+- howz evrthing
+- hey there
+- hey careerbot
+- hey spotle
+- shabba kahir
+- shabba kher
+- salam
+- how are you ?
+- what is going on?
+- Shubh Prabhat
+- Suprabhat
+- aftrnun
+- goood morning
+- goood eevening
+- gooood nite
+- gud nite
+- namashkar
+- sooprabhat
+- shooprabat
+- suprabat
+- nite!!
+- Hey there , I am [Saurav] (name)
+- I am [Saurav](name) , How are you?
+- - mrng
+- evning
+- Namaskaar
+- Ki haal chaal twadda?
+- hw r u
+- hyyyy
+- hiiiiiiiii
+- - heyyyyyyyyy
+- hllllllloo
+- helllllloooooooo
+- kaisan ba
+- i am pleased to talk to you
+- im plzd to tlk to u
+- Raam Raam
+- Good Luck
+- ram ram
+- ram 
+- Shubhkamnaye
+- Hardik badhai
+- hello bot
+- hi bot
+- hi chatbot
+- hey bot
+- hey chatbot
+- Khuda Haafiz
+- khuda hafizz
+- jai shree raam
+- Radhe radhe
+- Jai jinendra 
+- Suswagatam
+- Swagat hai
+- Hie
+- Bye
+- Bye bye
+- Keymon ache
+- kemana ache
+- Come stai?
+- Bonjour
+- have a good day
+- goodday
+- good day
+- awesome
+- awesome day
+- great bot
+- have a great day
+- have an awesome day ahead
+-  shubh ratri
+- Shubhraatri
+- good to see you
+- nice to see you
+- happy to see you
+- Gday
+- g'day
+- Sab badia?
+- Hi spotle
+- Hy Spotle
+- Hello Spotle
+- Thanks for connecting!
+
+## intent:feedback
+- nice to talk to you
+- good for nothing
+- feedback 
+- worst
+- i love this bot
+- can you improve jobs
+- please improve jobs section
+- improve
+- why this bot is so correct
+- I love you work
+- Keep it up
+- amazing
+- awesome
+- Faboulous
+- this bot is amazing
+- amazing work
+- your are one in thousand
+- i love you CareerBot
+- i want a contact section
+- improve
+- improve your exams section
+- improve your contact section
+- add a company section too
+- provide link of cpmpanies too
+- provide reviews too
+- wow
+- wow you are so good
+- wow amaizng
+- i did not expect this from you
+- you are worst
+- worst you can give
+- worst you are
+- you are bad
+- you are good for nothing
+- you are a shitty bot
+- i don't like you
+- you are useless
+- you are bad in the worst
+- worst of you
+- you are best
+- you are just amazing
+- you are quite bad in telling companies name
+- Appreciated your work
+- what a good work you are doing
+- Kudos
+- Kudos to team Spotle
+- Kudos to CareerBot
+- it take too much time
+- appreciable
+- your work is quite good
+-  you should make it in hindi also
+- please introduce more languages
+- it is quites easy to hack this
+- i am unable to get a desirable work
+- this bot is very good
+- i am very dissapointed with this
+- disappointed
+- ver bad
+- very disappointed
+- very good
+- good
+- i am thankful to this bot
+- thankful to get  job because of you
+- feedback
+- it will be very nice of you
+- very nice of you
+- you should decrease time to search 
+- you should introduce a apply job to job
+- i am not getting a job
+- it is not working
+- it is working inappropriately
+- you should also give informaon in number
+- where is contact section
+- please improve your companies
+- no companies for artist
+- no jobs for artist
+- no contact information of company
+- good for everything
+- best bot
+- best bot for getting a job
+- nice bot
+- awesome bot
+- it is awesome
+- it is amazing
+- an amzing bot
+- a very intersting concept to find job
+- nice bot to shape your career
+- good performanace
+- nice performance
+- you perform very good
+- you are biased
+- you are a shitty bot
+- you are of no use
+- you can't do anything right
+- you are making thing worse
+- you are so bad that you acnnot even recommend me a job
+- i do not like your servce
+- you can improve your service in many ways
+- you can put some link of comanies in that section
+- can you please change htis interface
+- can you please change its color to blue
+- bad UI
+- Bad Interface
+- If this will be in python this will work quite good
+- i find this bot quite amazing
+- all you need for a career questions
+- one stop for your all question to your career
+- i can bet you that you are the best bot
+- Funny bot
+- insiquitive bot
+- this bot is amazing
+- kudos to bot developers
+- thank you for finding a job for me
+- you are very good in recommending courses
+- please improve courses in non - technical fields
+-  this bot is so amzing
+- this bot help me finding perfect courses for me.Thank YOu
+- amazing means CareerBot
+- Perfect
+- perfection is the word for you
+- Love CareerBot
+- please update this app
+- update bug
+- there are many bugs in this bot
+- useless
+- useless bot
+- this bot is unable to o anything
+- using this means wasting our time
+- waste of time
+- you need to improve
+- you need to improve in many ways
+- un tolerable
+- this is not tolerablr
+- takess too much time
+- talks too much
+- boring
+- not a single funny thing in this
+- how a bot can be so bad
+- i did not expect this from you spotle
+- how a bot can be so perfectly trained
+- how a bot can o this much things
+- hats off
+- hats off to team CareerBot
+- You should also tell prices
+- prices of courses is too high
+- no internship for a artist
+- nothing is good here
+- no one can tolerate this bot
+- so boring
+- yaawning while using it
+- it is slower than a turtle
+- it is faster than a leopard
+
+## intent:affirm
+- yes
+- ok
+- okay
+- you can go further
+- hmmm
+- yesssss
+- ya
+- yeah
+- yaaa
+- yes, proceed
+- hmm
+- hm
+- yo
+- yup
+- yay
+- ha
+- haan
+- agree
+- proceed
+- agreed
+- go
+- go further
+- proceed further
+- yesssss
+- yes!!
+- ummm, yes
+- 👍
+- thumbs up
+- go ahead
+- allowed to proceed
+- i love this 
+- yes man
+- that is waht i want
+- yes , i agree with this
+- correct
+- 100 percent
+- shat pratishat
+- bilkul
+- good
+- definitely
+- deinitely correct
+- i agree
+- perfect
+- definitely agreed
+- ummm,correct
+- absolutely
+- sahi j
+- sahi hai
+- sahi he
+- shi
+- prfct
+- gud
+- crct
+- oo yes
+- oo yeah
+- that is what i am finding
+- totally corect
+- totally agreed
+- totally
+- totally perfect
+- i acknowledge this as right
+- this is right
+- right
+- rite
+- ryt
+- same as i want
+- yuppp
+- yaaas
+- yaas
+- yas
+- hmm, right
+- right result
+- you can proceed futher
+- yes i agree with you
+- right bot
+- right careerbot
+-  ryt bot
+-  yes bot
+- yes careerbot
+- yeaah bot
+- you're right
+- you're correct
+- - you are correcr
+- you are ryt
+- yes you can go further
+- yes i am with you in this
+- i am with you
+- haanji
+- hnji
+- haan ji
+- hanji
+- haa
+- haan
+- bhalo 
+- ofcourse
+- ofc
+- great 
+- great go ahead
+- great go further
+- bilkul sahi
+- very correct
+- good correct
+- nice go ahead now
+- now go ahead
+-  noe preoceed
+- well go ahead now
+- affirm
+- affirmation
+- certified
+- i certify this
+- verified
+- i verify this
+- verify
+- acknowledged
+- apporoved
+- i approve this
+- this is approved 
+- go further,approved
+- this is accepted
+- accepted
+- thia is acceptable
+- trusted
+- i trust this 
+- go ahead, i trust this
+- i have no doubt in this
+- this have no doubt
+- no doubt
+- justify
+- justified
+- i justify this
+- this is justified
+- recommended
+- praise
+- this is praised
+- praised, go ahead
+- support
+- supoorted
+- good,supported
+- supported go ahead
+- agreed,justified
+- i validate this bot
+- bot, this is justified
+- verified bot
+- bot,verified
+- careerbot, go further this is accepted
+- accepted,bot
+- accepted,career bot
+- good bot, proceed next
+- haanji bot
+- careerbo bilkul
+- bhalo bot
+- bot, i am good with this
+- hopefully correct
+
+## intent:exam
+- which exam to appear for [medical](stream)?
+- is [gate](exam) necessary for [engineering](stream) students?
+- what is the sylabus of the [gate](exam)?
+- [JEE](exam) syllabus
+- What are the important questions for [CAT](exam)
+- Which exam should i give to get admission in [MBA](stream)
+- i want to pursue [engineering](exam) which exam is for me.
+- how to download admit card for [gate](exam)?
+- please give me official site for [gate](exam)?
+- Can i pay registration fee for [gate](exam) online?
+- which colleges accept admissions by [gate](exam)?
+- is [gate](exam) valid till now?
+- How to get nearest exam center for[gate](exam)
+- What is the exam duration for[gate](exam)?
+- Which exam to give for Mtech?
+- which is a national level enternace exam for [medical](stream)?
+- Can i leave exam center earlier than 3 hours in [gate](exam)>
+- How to score high in [gate](exam)?
+- course of [jee]
+- [ctet]syllabus
+- [gate] curriculum/syllabus for the year [2021]
+- if i prepare for only [3] subjects for [gate],will i be able to crack it
+- is[engg maths](subject)required to crack [gate]
+- can we skip [maths]for [gate]
+- can i get gud marks in [12th boards] if i don't do [organic in chemistry]
+- datesheet for [12th][2020]
+- when will [10th and 12th board]exams start this year
+- show me datesheet for [10th]
+- what is the duration of[12th board]exams
+- maximum marks of [jee] paper
+- will [jee]exam be held in online or offline mode
+- what is  the date of online exam
+- date of offline paper
+- what is the weightage of [aptitude] in [gate]
+- how many questions we should expect from [aptitude] in [gate]
+- [discrete maths] consists of what percentage of [gate] paper
+- no. of ques of [aptitude] in [gate]
+- how many subjects we need to prepare to have [85]marks in [gate]
+- can we leave some topics if we want to score[75%]in [physics][12th]
+- what are the subjects in [gate]
+- subjects that i need to prepare for [gate]
+- exam date of [ctet]
+- eligibility criteria for applying for [gate]
+- is there any percentage that we need to have in [12th] to apply for [jee]
+- does [12th] marks are of importance for [jee score]
+- [jee] is for which course
+- is[gate] a national or state level exam
+- is [ctet] for [teaching]
+- i have completed my [12th],am i suitable for [neet]
+- are [12th pass] with[75%] eligible to apply for [jee]
+- i want to find a government job , what are exams for that 
+- which exams should [btech] passout apply for to get a public sector job
+- i am interested in [science] which xams to apply after[12th]
+- i love [science] which exams are suitable for me 
+- i am a [physics]lover,which national level exams or olympiads are suitable for me after [10th]
+- when will [science] olympiad be held
+- when will[gate] exam be held this yr
+- i wish to join [dtu] after [12th] , do i need to take any test or exam for that
+- i want to take admission in [du] in [bsc]is there any kind of test or exam 
+- i'm interested in joining [btech course] in [ipu], is there any ppr i need to clear
+- i'm interested in govt jobs show related xams
+- it's my wish to get selected in [gate] what score do i need for that
+- i want a job in [infosys], are there any tests that i need to clear
+- what are the passing marks in [10th]
+- how many marks does a student score in order to pass [12th boards]
+- percentage/cgpa one needs to pass in [10th]
+- total marks of [gate] exam 
+- maximum marks of [neet]
+- max mks of [neet]
+- which exams are cumpolsary to get admission in a foreign university?
+- Which exams to give for getting admission in college?
+- PHD national level exam?
+- [gate](exam) 2020 is organized by which IIT?
+- which is the hardest exam in india?
+- when will the results of [CLAT](exam) will be published?
+- How many days it take to UGC to publish results of [LLB](exam)
+- examination
+- results of examinations
+- - When CBSE will release datesheet
+- Bihar Board results
+- results 
+- datesheet
+- Blueprint of [gate](exam) question paper
+- Important topics for [Gate ](exam)
+- Why should i give [JEE](exam)
+- exams really matter
+- Optional exam of [JEE](exam)
+- Dates of [NEET](exam) and [JEE](exam) clashes which should i give prefernces
+- List of exams for [engineering](stream)
+- Is there two parts of [JEE](exam)?
+- Which exam is worlds hardest exam?
+- Which exam is credible worldwide?
+- How can i pepare for [gate](exam) perfectly?
+- how can i top [CAT](exam)
+- Support material for [JEE](exam)
+- How many days it takes to prepare for[NEET](exam)
+- Most important examination factor?
+- How many marks required to get a tier 1 college in [jee](exam)
+- DTU mtech exam syllabus?
+- Placement exam sample papers?
+- Which type of questions comes in [JEE](exam)?
+- datesheet
+- pen and paper exam
+- do i need to expertise [english] for [gmat]
+- are there any other options related to [gate]
+- give me link where i should fill the registration form for [gate] exam 
+- provide link for application form for [gate]
+- what is difference between online and offline based[gate] exam 
+- time limit for [gate] examinations
+- time duration of [jee] examination
+- do we only have mcq 's in [gate]
+- total how many questions are there in [cat]
+- i wish to do masters, what exams are recommended for me 
+- i have completed my [btech], is there any national level examination which i should compete for pursuing my masters
+- i want to pursue my studies in abroad, suggest examinations related to this
+- which exam can make me a billionaire
+- which exam can get me a govt job
+- is [SSC](exam) hard?
+- show me a sample paper of [NEET](exam)
+- how can i qualify [NEET}(exam)?
+- which exams qulaification leas to a bright career?
+- I want to do public services which exam should i givr
+- i want to be a police officer which exam should i give
+- Which exam is easiest to get a job
+- Guidelines of {JEE}(exam)
+- What is the dress code for [CBSE BOARD](exam)?
+- Is there any formal dress code for [NEET](exam)?
+- How many questions are in [SSC](exam)?
+- which are the exams for a [science ] (stream) student after 12 clss?
+- tips for [12](exams)?
+- examniation code of conduct for[jee](exam)?
+- can i cheat in exams?
+- What are the rules of [10th CBSE](exam)?
+- Most credible exam in india
+- Which exam can get me a admission in USA?
+- How to clear [Harvard University Exam}(exam)?
+- most important topics of [JEE](Exam)
+- Most important questions for [Gate](exams)?
+- Is civil uniform allowed in schools examinations?
+- How many sheets are given in [JEE](exam)?
+- How many students give [NEET](exxam) this year?
+- can i give [jee](exam) online?
+- which exams in india are conducted digitally?
+- exams 
+- examinations
+- paper
+- offline examinations
+- online examinations
+- how many students qualify [NEET] in 2020?
+- how many students failed [NEET](exam) in 2020?
+- which exam is suitable for a btech admission
+
+
+## intent:reject
+- no
+- nope
+- impossible
+- not possible
+- na
+- no
+- not
+- no way
+- niether
+- nor
+- nah
+- reject
+- rejected
+- incorrect
+- wrong
+- not correct
+- no good
+- not good
+- bad
+- worse
+- worst
+- not riht
+- not right
+- not ryt
+- never
+- galat
+- not perfect
+- this is not what i want
+- bad result
+- not what i want
+- fail
+- failure
+- incompetent
+- dismiss
+- damn wrong
+- not ryt
+- not ryte
+- i doubt this
+- doubted
+- this is not correct
+- this is wrong
+- not what i expected
+- you are not right
+- you are not correct
+- you give me a wrong result
+- this is rejecte by me
+- rejection
+- this is not accepeted
+- not acceptable
+- i never demanded this
+- never do this agian
+- this is very wrong
+- this is not expected
+- not expected
+-  not perfect
+- i don't want this
+- please give me correct result
+- doubted by me
+-  i am not expecting this
+- please show me a correct result
+- this is not what i ask
+- please help me by showing correct result
+- disown
+- this is disown by ne
+- disown by me
+- dismiss this
+- hey bot not correct
+- bot give me correct results
+- bot wrong
+- please dismiss this bot
+- please redo this
+- bot this is not right
+- careerbot this is wrong
+- careebot this wrong
+- please give me right results bot these are not right
+- galat hai
+- bilkul galat
+- discard this
+- thumbs down
+- incorrect
+- this is incorrect
+-  bot incorrect results
+- this is incorrect career bot
+- this is nt accurate
+- not accurate
+- inaccurate result
+- inaccurate 
+- bogus
+- this is inappropriate
+- result inappropriate
+- improper result
+- improper 
+- undesirable
+- this is not desirable
+- not desirable results
+- this not sounds good
+- sounds bad
+- this result sounds bad
+- i not agre with these results of you
+- care to give correct results
+- this is not possible
+- this is impossible
+- Nope bot you are wrong this time
+- i disagree with you
+- disagree
+- unacceptable
+- this is unacceptable
+- not a correct one
+- bad one
+- improper
+- this is not a proper one
+- i don't want this one
+- don't
+- can't
+- doesn't work for me
+- this will not work for me
+- not woring
+- not working
+- worst you can give
+- bad one mr carreerbot
+- this is not satisfied
+- unsatisfied results
+- undsatisfied
+- this is not which gives me satisfaction
+- nah, wrong
+- nope, you are wrong
+- bekar hai
+- not giving correct results
+- not accepted 
+- not accepted by mr
+- i can't accept this
+- please give me a correct result
+- thia is not descent
+- FALSE
+- this result is false
+- this is not true
+- not fine
+- this is not fine
+- i want something else
+- this will not accepted by me
+- please give what i ask
+- regret
+- false results
+- bot please give what is ask
+- Wrong bot
+- not right bot
+- hey bot i think you give me wrong outputs
+- the output is wrong
+- the output is not correct
+- the output given is not what i want
+- the output is incorrect
+
+## intent:job_search
+- I want to find a job for [AI](skill)
+- I have upper hand on [Java](skill), show me top jobs
+- tell me some jobs of more than 5LPA(salary)
+- show me some jobs for [r programming](position)
+- Show me some jobs in [new delhi](location)
+- Show me some jobs of less than 2 year contract period
+- In [mumbai](position) show me highest paying job
+- highest paying job
+- lowest paying job
+- Job with no Cgpa requirement
+- jobs in [kolkata](location)  for [SDE](position)
+- [cloud archiitect](position) job requirements
+- jobs which are in 1km radius from my location
+- jobs which have immediate joining
+- jobs which have no interview requirement
+- jobs of [cloud](skill) 
+- jobs which are work from home
+- work from home internships
+- Show me some internships of [machine learning](skill)
+- i am a btech 1st year students , show me some internships which are work from home
+- i am a [graphic designer](position), help me finding some jobs.
+- i have a three year experience in coding give me some suggestion of  senior position jobs.
+- Job having CGPA requirement of less than 7.
+- Work from home jobs
+- Test syllabus of [ML engg](position)
+- Jobs for new comers
+- Jobs for new comers in [west bengal](location)
+-  Jobs for new comers in [west bengal](location) for [ai](skill)
+- documents requirement for [ML Engineer](position) in [google](company)
+- [Google](company) job openings
+- [amazon](company) technical jobs
+- [Spotle](company) jobs in [india](location)
+- [India](location) highest paying jobs
+- [India](location) lowest paying jobs
+- Highest paying job in (company)
+- where are offices of (company) arre located
+- what are the educational qualification required for [AI Engineer](positon)
+- Show me some jobs which have [data science] as a skill
+- I have done [ML](skill) course on spotle which job i am suitable for?
+- documents required for a job onboard
+- what documents are required for a interview process
+- Important topics for [cloud architect](positon) interview?
+- What  are the top jobs after COVID-19 era?
+- Which are the trending jobs of now-a-days?
+- Show me jobs which will assocaiated with a start up
+- Jobs which required educational qualification of a bachelors degree in computers.
+- Which are the top 5 companies of [ai](skill) in [New Delhi](position)?
+- Top jobs for a [data analyst](position) in [bengaluru](location)
+- Freelancing jobs
+- Freelancing jobs of [ai](skills)
+- jobs with 9-5 working hours
+- which are the top institues for a [teacher](position) in [jammu](location)
+- i am a school passout and required a job for my earning . Suggest me some jobs
+- Which part time jobs can i do with my school
+- which part time jobs can i do with my degree classes.'
+- I am a Btech CSE student , i am ut of money please suggest some part time jobs in [Karol Bagh](location)
+- i live in [odisha](location) i am ready for migration suggest me some jobs
+- i am a covid infected student in my quarantine suggest me some part time job 
+- i am in quarantine please suggest me some jobs which are Work From Home
+- My dream company is [Google](company) , suggest me some openings for me there.
+- I always wanted to be a [astronaut](position) , is there any opening for it,
+- I live in a rural village, suggest me a government job there.
+- Which are the top government jobs for a bachelors student,
+- Which exam i am required to give for [Senior Engineer](position)
+- suggest me a job which allows a creche there
+- suggest me a job in which company is a unicorn
+- suggest me a job which provides insurance for employees
+- suggest me a job which can be taken by a 3rd tier college graduate
+- suggest me a job  which i can get with my gate score
+- jobs
+- give me a list of jobs which is present in (Spotle)(company)
+- What is the duration of internship at (company) for [ai intern](position)
+- Show me jobs for a school student
+- show me freelancing job for a college student
+- show me job for a [Gate](exam)
+- Show me jobs which orefers female
+- Show me job where there is equal pay to everyone
+- Show me jobs which don't require interviews
+- Show me jobs which dont require physical presence
+- show me jobs which hav a notice period of 30 days
+- show me jobs with no notice periods
+- jobs for[cse](skill)
+- jobs which give preference to women
+- jobs which dont have a on site visit
+- show me jobs which have hisghest bonus
+- show me jobs which don't requir formal clothes
+- show me jobs which provides food
+- show me jobs which provide living area
+- show me jobs which have some good perks with it
+- show me jobs which can de done virtually
+- suggest me a virtual internship
+- i am a [mathematics](skill) lover.Suggest me a good job 
+- my sister want to be a [artist](position) where i job available
+- my brother want to join [Acer](company) as a [web developer](position) is there any opening
+- i am skilled in [mathematics](skll) which job is best for me?
+- Which company is best for me Amazon or Google?
+- Jobs with highest annual growth
+- job which iincreases slaries monthly
+- a freelancing [project] job
+- job which have flexible timings
+- show me internships which are of 1 month duration
+- hey chatbot suggest me some jobs
+- Bot, help me finding a job for my slef
+- He careerbot , i am looking for a [AI developer](position)
+- looking for a part time job as an [artist](position)
+- tell me internships where a LOR is given
+- recommend me some unpaid work from home internships
+- recommend me some paid internships
+- recommend me some volunteering jobs
+- recommend me jobs related to COVID19
+- job vacancies in (company)
+- jobs which have minimum two openings
+- i am a[ senior web developer] ,show me a job according to me
+- i want to change my company to a near one,please recommend me 
+- Job which no technical skill requirement
+- Show me railway jobs opening
+- Show me airport jobs
+- Show me MCD jobs
+- Show me jobs related to bank sector
+- Which job can i do with my degree in [finance](skill)
+- Hi bot, find me a job under a [ca](position)
+- Hey bot, i love to solve aptitude problems, shw me jobs related to that
+- PSU jobs
+- Private jobs
+- Jobs with not a immediate joining
+- Jobs with immediate joining
+- Jobs which a non- educated person can do
+- Jobs with research backgorund
+- i have a interest in resaerching new thing ehich job is preferable for me
+- heyaa bot find me some jobs
+- Jobs in [india](location)with more than 3 LPA package
+- Jobs in [india](location) for engineering background.
+- jobs in most demand
+- trending jobs
+- highest package jobs
+- lowest package job
+- jobs with volunteering
+- paid internship
+- unpaid internship
+- jobs with extra benefits
+- jobs with a formal attire
+- jobs with permanent working hours
+- jobs which gives mst sick leave
+- jobs with a maternity leave 
+- jobs with a male maternity leave
+- jobs with a medical insurance
+-  jobs with a good working environment
+- job which provide holiday package
+- jobs which gives laptop too
+- jobs with a training period
+- jobs which requires no training
+
+## intent:career_options
+- is [hadoop](skill) needed to be a [data scientist](position)?
+- what is the salary of a [data scientist](position) in [India](location)?
+- Which (skill) is required to be an data scientist?
+- which (course) is required to be a [data scientist](position)?
+- What is the minimum (experience) a person required to be a [SDE-1] (position) in [Google](company)?
+- Which is best (job) i can do with [java](skill) ?
+- which is most trending (skill) of 2020?
+- Which course leads me to a good job?
+- Which (skill) is easy for a beginner?
+- Which (skill) gives me a package of more than 5LPA(salary)?
+- What is the course of CSE?
+- which is the most easy (skill) to be a ML engineer(position)?
+- courses required for [ML engineer](position)?
+- recommend some beginner courses for [machine learning](skill)
+- recommend a course for practical implementation of[python](skill)
+- Which career i can opt after my 12 class in medical stream?
+- how can i start my coding career?
+- What are tips for a ultimate beginner?
+- i am a commerce graduate. Please give me a career option
+- Which internship is best having [AI] as a skill?
+- What is the duration of internship(position)?
+- What is the pay for a ML intern(position)?
+- Which career is best for a 12 class passout from arts?
+- Which career is best for a 12 class passout from non-medical?
+- Which degree should i opt after my 12 th class?
+- Which PG course should i opt after my btech?
+- I want to go in research.Recommend me some (skills)?
+- How can i go to research(skill) in [ML](skill)?
+- What is most promised career in last 20 years?
+- Which job is in most demand?
+- Which job will be in most demand after 5 years?
+- What is the duration of Btech?
+- What is the most trending course for research in [NLP](skill)?
+- What qualifications required for a AI engineer(position)?
+- Most stable career option in programming?
+- How to get into Google?
+- What is the interview requirements for selection as a SDE(position) in Google?
+- How can i be a best programmer?
+- How a school passout can start a career in artificial intelligence?
+- Which career give me a highest pay?
+- Which is the most easy(skill)?
+- What is career path to be a AI architect(position)?
+- How to be a product manager(position)?
+-  How to get success in coding interview?
+- What is the average pay of a [NLP Developer] in spotle?
+- What a [ai intern](position) do in their work?
+- how many days it takes to be perfect in programming?
+- suitable career option for a person having [AI] as a skill?
+- how can i be a astronaut(position)?
+- i am a cse graduate. tell me a career option.
+- most demanding skill
+- most paying skill
+- most common skill
+- most easy skill
+- least used skill now?
+- least opt career?
+- best career in [india](location)
+- easiest job in [delhi](location)
+- best job in [mumbai](location)
+- Amazon payscale
+- i am a SDE(position) tell me career options in [AI](skill)?
+- pre requirement to be a SDE(position)?
+- what are some least famous job but have a high pay?
+- duties of a [graphic designer](position)?
+- eductaion qualifications for a [chabot developer](position)?
+- i am a commerce passout how can i start carrer in [coding](skill)?
+- what a person with no experiece in coding can do?
+- what a person with commerce background do to entering in computers background?
+- i want to do a job in [America](location) which job should i do?
+- time required to do a NLP course?
+- i am a good programmer ,what are career options for me?
+- i am good in [python,c](skills), what jobs are suitable for me?
+- Which college should i opt for doing bachelors in computer applications?
+- Which institute in [delhi](location) provides [python] training?
+- i am skilled in [mathematics](skll) which career is best for me?
+- what are the top jobs for [mathematics](skill) lover?
+- i have a passion in [web development](skill) which career should i opt?
+- i have interned as a web developer which career should i  opt?
+- i am a student in my 1st year of engg which career should i opt for being an [ai developer](position)?
+- responsibilities of a [cloud architect](position)?
+- package of a [ai engineer](position)?
+- is there a way to earn more than 5lpa by doing an ai course?
+- which course should i do to earn a internship as a [web developer](position)?
+- i am new in coding which course should i opt?
+- show me some courses in [R programming](position)?
+- how to be a [tableau developer](position)?
+- which is the top universites in [india](position)?
+- what is the tme duration of [btech]?
+- how many semesters are there in [btech]?
+- which university is best among ipu and du?
+- tell me some universities which offers btech in [delhi}?
+- admission qualifications for bca in ipu?
+- Process for admission in delhi university?
+- career option for 10th class student in [delhi](location)?
+- free of cost courses of [cloud](skill)
+- courses of less than 1000rs in [javascript](skill)?
+- trending free courses in [javascript](skill)?
+- what are some best institutes for jee in [delhi](skill)?
+- What are qualifiications required to admission in a btech courses?
+- Which degree should i do for being an engineer?
+- i am a medical student which exam should i prepare for being a [doctor](position)?
+- is there any seminar i can attend to enchance my skills?
+- i want to explore [AI/ML](skills) field , recommend courses?
+- beginning practical implementation of data annotation?
+- How [data scientist](position) annotates data?
+- How to become one of the best [program manager](position)?
+- Which course is of least duration?
+- i want to be a [sound engineer](position) how ml can help me?
+- which career should i opt for being a researcher(position)?
+- which career is in trend in [america](position)?
+- [america](location) highest paying job?
+- CGPA for sitting in placement?
+- Highest placement percent course?
+- must have skills in 2020?
+- market value of [python] in 5 years?
+- what are the most easily getting jobs in 2020?
+- career in science stream?
+- career in commerce stream?
+- career in arts streams?
+- what skills are rquired to become a writer?
+- i want to write a book, which career should i opt?
+- i have interest in [cooking](skill) , which stream should i choose?
+- summer training in python
+- my summer vacations are near , tell me which skill should i learn?
+- my son is an engineering student which career should he opt for?
+- new trend for a mathematics student?
+- my sister want to be a [artist](position) which stream should she take?
+- one of the best course in [machine learning](skill)
+- tell me intermediate level course in [java](skill)
+- top 5 skills of 2020?
+- top 3 skills of 2020?
+- least demanded skills in nowdays?
+- which is most demanded course online?
+- what a 12 years old kid do to learn mathematics?
+- what is a career for a kid who loves [science](skill)?
+- what can i do having [ai](skill) as a skill?
+- what are the most important thing to learn nowadays?
+- common mistake in careers?
+- skills need for a [programmer](position)
+- 3 things to remember before a interview
+-  programmer career after his first job
+- How can i change my career option after my first job
+- How a programmer can change into a artist?
+- i want to do engineering but i am in arts stream please sugges some way.
+- [JEE](exam) syllabus career options?
+- which jobs can be Work From Home?
+-  How COVID-19 will change future opportunites?
+- What career options will be best after COVID-19 era?
+- Tell me some career option which i can opt in my quarantine?
+- Tell which fields will have more demand during COVID-19 era?
+- Corona quarantine career options.
+
+## intent:bye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
